@@ -1,0 +1,7 @@
+#Sun Oct 16 16:19:03 EAT 2016
+base.0=C\:\\Users\\Molalgne Girmaw\\Documents\\birth\\BirthRegistration\\birthRegistration\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_91e2c915879495885f350caaa8deef0db6696ccf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Molalgne Girmaw\\Documents\\birth\\BirthRegistration\\birthRegistration\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f38efc9f03d10281184b24c85a615e6bf1118dfb\\classes.dex
+base.1=C\:\\Users\\Molalgne Girmaw\\Documents\\birth\\BirthRegistration\\birthRegistration\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f38efc9f03d10281184b24c85a615e6bf1118dfb
+file.0=C\:\\Users\\Molalgne Girmaw\\Documents\\birth\\BirthRegistration\\birthRegistration\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_91e2c915879495885f350caaa8deef0db6696ccf\\classes.dex

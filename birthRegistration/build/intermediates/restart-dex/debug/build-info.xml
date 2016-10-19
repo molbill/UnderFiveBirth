@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="41772744325539"
+    token="-1360606135339683194"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2532" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="10331" />
+    <task
+        name="verifier"
+        duration="891" />
+
+    <artifact
+        location="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\outputs\apk\birthRegistration-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="41772744325539"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\outputs\apk\birthRegistration-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

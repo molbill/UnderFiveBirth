@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="26741f371d8626a626fa1fb7d45adc36296f8fca">
+        <dex dex="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f38efc9f03d10281184b24c85a615e6bf1118dfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.1.1_d2e067be73bc4ddb58711f5436622bf9d1442248\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Molalgne Girmaw\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.0\b8c0920fbe8225e30b8f378474528ca163c9c9e4\MPAndroidChart-v2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b8c0920fbe8225e30b8f378474528ca163c9c9e4">
+        <dex dex="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.2.0_ef9a293726909b95dcc67f751e205e488774cf5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.1.1_87c7046889bb86d97ea3a415d33fabf2502e65f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Molalgne Girmaw\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.1.1_9e277dc3e781e20213efd2f952b3ffff4e51410f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ccf83306440c246cece1a070b0fc232ff94c12a0">
+        <dex dex="C:\Users\Molalgne Girmaw\Documents\birth\BirthRegistration\birthRegistration\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_91e2c915879495885f350caaa8deef0db6696ccf\classes.dex" />
+    </item>
+
+</items>
